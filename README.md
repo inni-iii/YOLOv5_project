@@ -4,4 +4,5 @@
 detect.py + lidar_test_speak.py => detect_change.py
   
 train_set => kaggle _ people image
+  
 labeling tool => https://github.com/heartexlabs/labelImg
